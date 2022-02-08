@@ -14,3 +14,4 @@
 ・GoogleColaboratoryについての基礎学習,Pythonの概要理解,人工知能の概要理解,ニュートラルネットワーク概要理解
 ・GoogleColaboratory上でのコード記載方法・復習（マークダウン・変数・四則演算・Boot値と比較演算子・論理演算子）
 
+
