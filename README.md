@@ -7,3 +7,5 @@
 学習教材：Udemy、Progate
 講座名：みんなのAI講座 ゼロからPythonで学ぶ人工知能と機械学習 【2022年最新版】
 講師：我妻 幸長 Yukinaga Azuma
+（補足）<br/>
+2022年3月8日：Python教材追加購入（Python3エンジニア基礎試験問題集）
